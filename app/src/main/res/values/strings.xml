@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WiFiChat</string>
+
+    <string name="exit">清空Wifi配置</string>
+
+    <!-- 菜单 -->
+    <string name="action_settings">Settings</string>
+
+    <!--Activity 标题 -->
+    <string name="title_activity_wifi_config">Wi-Fi Config</string>
+
+    <!-- WifiConfigActivity 菜单-->
+    <string name="action_refresh">刷新</string>
+
+    <!--WifiConfigActivity 内控件所需字符串-->
+    <string name="text_txv_wifi_state_not_connected">Wi-Fi 未连接</string>
+    <string name="text_txv_wifi_state_connected">Wi-Fi 已连接</string>
+    <string name="text_btn_exit">退出</string>
+    <string name="text_btn_create_ap">创建热点</string>
+    <string name="text_btn_next_step">下一步</string>
+
+</resources>
